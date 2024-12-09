@@ -74,7 +74,7 @@ function Project() {
     ];
 
     return (
-        <div className="ProjectContainer">
+        <div id="ProjectContainer" className="ProjectContainer">
             <div className="hidden md:flex">
                 <div
                     className={`relative py-5 transition-all duration-300 ${isModalOpen || modelTwo ? "blur-sm" : ""
