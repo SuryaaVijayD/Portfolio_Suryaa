@@ -26,7 +26,7 @@ const NavBar = () => {
                     </li>
                     <li className="text-sm md:text-base">
                         <a
-                            href="https://drive.google.com/file/d/1rYE7CUyJ_9ivAXj2LxfNPZlmUHKoX5CT/view?usp=drive_link"
+                            href="SuryaaVijayD/portfoliohttps://drive.google.com/file/d/1teRtmdKKuPiZVXR4SY143hdibdG37SY2/view?usp=sharing"
                             className="no-underline text-[#cbacf9]"
                         >
                             Resume
