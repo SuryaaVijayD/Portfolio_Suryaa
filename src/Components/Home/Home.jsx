@@ -27,7 +27,7 @@ const Home = () => {
                     </span>
                 </h1>
                 <h4 className="text-sm md:text-base tracking-wide">
-                    I&#39;m <span className='font-bold'>Suryaa D</span>, Full Stack Developer @ Spring boot
+                    I&#39;m <span className='font-bold'>Suryaa D</span>, Java Developer'
                 </h4>
                 <button
                     type="button"
@@ -42,4 +42,5 @@ const Home = () => {
 };
 
 export default Home;
+
 
