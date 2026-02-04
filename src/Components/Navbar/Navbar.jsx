@@ -34,7 +34,7 @@ const NavBar = () => {
                     </li> */}
                      <li className="text-sm md:text-base">
                         <a
-                            href="https://drive.google.com/file/d/1gyvKOOmM4HkISr9H1jCucIeHLLIC5ukc/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1zByu8yBpYNSx_AMC8WKbdjcD9JVrhl3b/view?usp=sharing"
                             className="no-underline text-[#cbacf9]"
                         >
                             Resume
@@ -52,4 +52,5 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
 
