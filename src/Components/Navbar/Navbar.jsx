@@ -24,9 +24,17 @@ const NavBar = () => {
                             Projects
                         </a>
                     </li>
-                    <li className="text-sm md:text-base">
+                    {/* <li className="text-sm md:text-base">
                         <a
                             href="https://drive.google.com/file/d/1VsaBfMZQo83PHdUicj4tNRNpWZ5nSO7J/view?usp=sharing"
+                            className="no-underline text-[#cbacf9]"
+                        >
+                            Resume
+                        </a>
+                    </li> */}
+                     <li className="text-sm md:text-base">
+                        <a
+                            href="https://drive.google.com/file/d/1gyvKOOmM4HkISr9H1jCucIeHLLIC5ukc/view?usp=sharing"
                             className="no-underline text-[#cbacf9]"
                         >
                             Resume
@@ -44,3 +52,4 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
